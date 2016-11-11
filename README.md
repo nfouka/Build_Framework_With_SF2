@@ -13,5 +13,4 @@ $ composer install
 $ run cli-server php -S 127.0.0.1:8000 , build on  http://127.0.0.1:8000/is_leap_year
 ````
 
-
-https://raw.githubusercontent.com/nfouka/Build_Framework_With_SF2/master/sf2.png
+<img src="https://raw.githubusercontent.com/nfouka/Build_Framework_With_SF2/master/sf2.png" />
