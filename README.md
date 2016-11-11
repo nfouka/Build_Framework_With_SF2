@@ -17,3 +17,4 @@ $ run cli-server php -S 127.0.0.1:8000 , build on  http://127.0.0.1:8000/is_leap
 
 ## Next Set-up 
 DI , EventDispatcher >> 
+Author: <Nadir Fouka> nadir.fouka@gmail.com , Grenoble University 2016 , November
